@@ -27,8 +27,7 @@ This repository contains all the homeworks, projects, and assignments I complete
 - Java
 
 ## Courses I'm Taking This Term:
-### 8. DSA210 - Introduction to Data Science
+### 8. CS405 - Computer Graphics
 ### 9. CS301 - Algorithms
 ### 10. CS307 - Operating Systems
 ### 11. CS404 - Artificial Intelligence
-### 12. CS405 - Computer Graphics
